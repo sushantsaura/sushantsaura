@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technical skills 
 - ..
 - 🌱 I’m currently learning data structure using java ...
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 you can contact me using my contact number - 7667473516
 
 
